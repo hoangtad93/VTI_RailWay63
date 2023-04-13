@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="VTI_Railway63_JavaAdvancedHibernate_1_Department/src/main/java"/>
+	<classpathentry kind="src" path="VTI_Railway63_JavaAdvancedHibernate_1_Department/src/test/java"/>
+	<classpathentry kind="src" path="VTI_Railway63_JavaAdvancedHibernate_3_Department_DAO/src/main/java"/>
+	<classpathentry kind="src" path="VTI_Railway63_JavaAdvancedHibernate_3_Department_DAO/src/test/java"/>
+	<classpathentry kind="src" path="VTI_Railway63_JavaAdvancedHibernate_4_Account_DAO/src/main/java"/>
+	<classpathentry kind="src" path="VTI_Railway63_JavaAdvancedHibernate_4_Account_DAO/src/test/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
